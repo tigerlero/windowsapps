@@ -1,0 +1,10 @@
+C:\Users\panos\source\repos\ageda\ageda\bin\Debug\ageda.exe.config
+C:\Users\panos\source\repos\ageda\ageda\bin\Debug\ageda.exe
+C:\Users\panos\source\repos\ageda\ageda\bin\Debug\ageda.pdb
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.csprojResolveAssemblyReference.cache
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.Form1.resources
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.Properties.Resources.resources
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.csproj.GenerateResource.Cache
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.csproj.CoreCompileInputs.cache
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.exe
+C:\Users\panos\source\repos\ageda\ageda\obj\Debug\ageda.pdb

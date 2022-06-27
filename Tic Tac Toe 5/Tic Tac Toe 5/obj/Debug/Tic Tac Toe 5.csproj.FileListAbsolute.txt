@@ -1,0 +1,10 @@
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic Tac Toe 5.csprojResolveAssemblyReference.cache
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic_Tac_Toe_5.Form1.resources
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic_Tac_Toe_5.Properties.Resources.resources
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic Tac Toe 5.csproj.GenerateResource.Cache
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic Tac Toe 5.csproj.CoreCompileInputs.cache
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\bin\Debug\Tic Tac Toe 5.exe.config
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\bin\Debug\Tic Tac Toe 5.exe
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\bin\Debug\Tic Tac Toe 5.pdb
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic Tac Toe 5.exe
+C:\Users\panos\source\repos\Tic Tac Toe 5\Tic Tac Toe 5\obj\Debug\Tic Tac Toe 5.pdb
