@@ -1,0 +1,12 @@
+C:\Users\ant\Desktop\Ergasia\Ergasia\bin\Release\Ergasia.exe.config
+C:\Users\ant\Desktop\Ergasia\Ergasia\bin\Release\Ergasia.exe
+C:\Users\ant\Desktop\Ergasia\Ergasia\bin\Release\Ergasia.pdb
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.csprojResolveAssemblyReference.cache
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.SmartPlanForm.resources
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.Map.resources
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.HelpForm.resources
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.NewDestination.resources
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.Properties.Resources.resources
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.csproj.GenerateResource.Cache
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.exe
+C:\Users\ant\Desktop\Ergasia\Ergasia\obj\Release\Ergasia.pdb
